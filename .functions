@@ -1,0 +1,4 @@
+function pwdc() {
+  pwd | tr -d "\r\n" | pbcopy
+}
+

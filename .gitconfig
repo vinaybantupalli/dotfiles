@@ -1,0 +1,8 @@
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout
+[user]
+	email = vinaybantupalli@gmail.com
+	name = vinaybantupalli
