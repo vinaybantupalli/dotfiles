@@ -1,4 +1,5 @@
 export CLICOLOR=1
 export LSCOLORS=DxGxcxdxCxegedabagacad
 export GREP_OPTIONS='--color'
+export EDITOR=vim
 
